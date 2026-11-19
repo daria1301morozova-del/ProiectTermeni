@@ -1,1 +1,2 @@
 print("Salut! Acesta este proiectul meu.")
+print("Am adaugat o functionalitate noua!")
